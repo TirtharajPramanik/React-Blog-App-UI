@@ -1,0 +1,14 @@
+.sidebar {
+  flex: 2;
+  height: max-content;
+  top: 5em;
+  position: sticky;
+  border: 1px solid;
+  padding: 1em;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+  word-wrap: break-word;
+  word-break: break-all;
+  min-width: 12em;
+  max-width: 20em;
+}

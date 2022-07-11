@@ -1,0 +1,16 @@
+.post {
+  padding: 2em;
+}
+
+.post-img {
+  width: 100%;
+  padding: 2em;
+}
+
+.post-title {
+  margin-top: 3em;
+}
+
+.post-text {
+  margin: 2em auto;
+}
